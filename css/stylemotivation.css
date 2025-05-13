@@ -433,7 +433,7 @@ tr:hover {
     overflow-x: auto;
     padding: 5px 0px;
     margin: 100px 0;
-    margin-left: 350px;
+    margin-left: 50px;
     scrollbar-width: thin;
     scrollbar-color: var(--primary-blue) transparent;
 }
